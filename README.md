@@ -6,6 +6,7 @@ Amalia Kholifatul Azizah -2301010073
 Ni Kadek Dian Novianti -2301010077
 
 [Link Figma: ](https://www.figma.com/design/UMFx8wfB9BWclYQFwAWeCK/Tugas-PM?node-id=100-58&p=f&t=SRJyBTVy2sbsUiJZ-0)
+[Link Arsitektur: ](https://www.canva.com/design/DAG8elHuLWw/ueKnIlZmDUqIrM4i4NN64g/editutm_content=DAG8elHuLWw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 A new Flutter project.
 
